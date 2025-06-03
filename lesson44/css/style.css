@@ -1,0 +1,21 @@
+.bl2 {
+    height: 190px;
+    width: 240px;
+    background: #ffd9c9;
+    box-sizing: border-box;
+    padding: 23px; 
+    border-radius: 20px;
+    box-shadow: inset 1px 2px 10px 1px #bcb0a1;
+    border: 1px solid #bcb0a1;
+    display: inline-block;
+    margin: 10px 5px;
+}
+
+.bl1 {
+    height: 500px;
+    overflow: auto;
+    background-color: #eaeaea;
+    border: 1px solid #000;
+    border-radius: 30px 0 0 30px;
+    
+}
